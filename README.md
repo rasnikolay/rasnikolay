@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Nikolay Rastsvetayev 
-- 👀 I’m interested in JavaScript, React, TypeScript, Redux/RTK. REST API, HTTP, Material UI, FSD.
-- 🌱 At the moment I am studying at the Kuban State Technological University on the 5 year in the specialty "Software Engineering"
-- I studied at the Krasnodar College of Electronic Instrumentation with a degree in Applied Informatics (by industry)
-- I work as a programmer at the Institute for the Development of Education in the Krasnodar Territory
+- 👋 Hi, I’m Nikolay Rastsvetayev.
+- 👀 I like JavaScript, React, TypeScript, Redux/RTK, REST API, Material UI, FSD and more.
+- 🌱 I am currently studying part-time at the Kuban State Technological University in my last 5th year with a degree in “Software Engineering”.
+- I studied at the Krasnodar College of Electronic Instrumentation with a degree in Applied Informatics (by industry).
+- I work as a programmer at the Institute for the Development of Education in the Krasnodar Territory.
 - 📫 How to reach me - telegram @rasnikolay
 
-<!---
-rasnikolay/rasnikolay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Привет, меня зовут Николай Расцветаев. 
+- 👀 Мне нравятся JavaScript, React, TypeScript, Redux/RTK, REST API, Material UI, FSD и прочее.
+- 🌱 Сейчас учусь заочно в Кубанском государственном технологическом университете на последнем 5 курсе по специальности «Программная инженерия».
+- Я учился в Краснодарском колледже электронного приборостроения по специальности «Прикладная информатика» (по отраслям).
+- Работаю программистом в Институте развития образования Краснодарского края.
+- 📫 Как со мной связаться - телеграмм @rasnikolay
