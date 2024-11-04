@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikolay Rastsvetayev 
-- 👀 I’m interested in HTML, CSS, JavaScript, ~~React, Redux, TypeScript~~. REST API, HTTP, ~~WebSocket~~.
-- 🌱 At the moment I am studying at the Kuban State Technological University on the 2nd year in the specialty "Software Engineering"
+- 👀 I’m interested in JavaScript, React, TypeScript, Redux/RTK. REST API, HTTP, Material UI, FSD.
+- 🌱 At the moment I am studying at the Kuban State Technological University on the 5 year in the specialty "Software Engineering"
 - I studied at the Krasnodar College of Electronic Instrumentation with a degree in Applied Informatics (by industry)
 - I work as a programmer at the Institute for the Development of Education in the Krasnodar Territory
 - 📫 How to reach me - telegram @rasnikolay
